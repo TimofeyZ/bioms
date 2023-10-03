@@ -1,0 +1,111 @@
+*{
+margin: 0;
+
+}
+.menu{
+    width: 250px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.514);
+    height: 100%;
+    position: fixed;
+    background:url("ф.jpg") ;
+
+    }
+    a{
+
+        text-align: center;
+        font-family: 'Handjet', cursive; 
+        font-size:30px ;
+        text-decoration: none;
+        display: block;
+        color: rgb(255, 255, 255);
+        background-image: url("bamboo2.jpg");
+        margin: auto;
+        border-radius: 5px;
+line-height: 40px;
+margin-top: 15px;
+    }
+a:hover{
+background: url("bambooLiana.jpg");
+
+}
+
+h3{
+    font-family: 'Handjet', cursive;
+text-align: center;
+font-size:50px ;
+color: aliceblue;
+
+}
+
+img{
+    display: block;
+    
+    border-radius: 20px;
+    margin: auto;
+
+    border: 4mm ridge rgba(211, 220, 50, .6); 
+box-shadow: 0 0 15px rgba(0, 0, 0, 0.514);
+
+    border-radius: 5px;
+width: 90%;
+margin-top: 15px;
+border-image: url("о.jpg") 100 round;
+}
+
+body{
+text-align: center;
+background-image: url("blossom.jpg");
+  
+}
+
+p{
+    /* box-sizing: border-box нужен для того, чтобы padding не расширял тег */
+    box-sizing: border-box;
+    margin: auto;
+    margin-bottom: 100px;
+    padding: 50px;
+    width: 90%;
+    font-family: 'Handjet', cursive;
+    color: aliceblue;
+text-align: center;
+font-size: 20px;
+background-image: url("ф.jpg");
+}
+
+.bioms{
+
+    display: block;
+    
+    border-radius: 20px;
+    margin: auto;
+
+
+
+
+
+margin-left: 250px;
+
+}
+
+h2{
+    
+    font-size:70px ;
+    font-family: 'Handjet', cursive;
+    text-align: center;
+    color: aliceblue;
+    /* -webkit-text-stroke: 1px #222; */
+    background-image: url("bamboo2.jpg");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
